@@ -78,3 +78,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo el traslado del contenido del primer commit de la rama feature hacia la rama main. Primero se cambio a la rama main y se identifico el commit que contenia los archivos que se necesitaban recuperar.
 Impedimento: Fue necesario verificar cuidadosamente la rama activa antes de realizar el traslado para evitar modificar una rama diferente.
 Plan de accion: Utilizar git branch y git status para confirmar la rama actual antes de ejecutar los comandos.
+
+id: 11
+Fecha: 17/09/2026
+hora: 17:10
+autor: Karen Dayana Villamizar Reyes
+Actividad: Despues se utilizo el comando git restore --source para traer los archivos correspondientes al primer commit de feature. Luego se utilizo git add para preparar los archivos y se creo un nuevo commit en main para registrar los cambios.
+Impedimento: Se presento dificultad inicialmente para comprender como utilizar git restore --source para recuperar archivos desde un commit especifico.
+Plan de accion: Continuar practicando git restore --source y comprobar los archivos recuperados con git status antes de realizar el commit.
