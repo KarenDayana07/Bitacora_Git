@@ -14,3 +14,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Realizamos nuevamente las actividades de apropiacion utilizando la terminal, tomando evidencias de cada ejercicio y elaborando un informe con todo lo realizado.
 Impedimento: Presente algunas dificultades al ejecutar ciertos comandos.
 Plan de accion: Continuar practicando los comandos y reforzar lo aprendido.
+
+id: 3
+Fecha: 20/08/2026
+hora: 14:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos un segundo laboratorio en la terminal, siguiendo el material de apoyo de la guia de aprendizaje y documentando todo el proceso realizado.
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
