@@ -14,3 +14,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo la actividad de transferencia "Operacion Rescate Multiversal" de Git, donde se exploraron ramas, se encontro a Cody en una rama profunda, se realizaron fusiones y se eliminaron ramas alternativas.
 Impedimento: Sin impedimentos operativos.
 Plan de accion: Continuar practicando ramas, fusiones y eliminacion de ramas.
+
+id: 3
+Fecha: 10/09/2026
+hora: 15:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo el primer juego de Kahoot en grupo para repasar los conocimientos adquiridos sobre Git y sus comandos.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Reforzar los conocimientos sobre Git y sus comandos.
