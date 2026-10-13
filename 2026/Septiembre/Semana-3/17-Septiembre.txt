@@ -38,3 +38,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se creo la rama feature a partir de la rama develop para realizar una nueva funcionalidad relacionada con el login.
 Impedimento: Se presento dificultad para comprender el funcionamiento de git restore --source.
 Plan de accion: Recuperar los archivos con git restore, agregarlos y crear un nuevo commit en main.
+
+id: 6
+Fecha: 17/09/2026
+hora: 15:50
+autor: Karen Dayana Villamizar Reyes
+Actividad: En esta rama se crearon los archivos login.txt, login.js y login.css, los cuales fueron utilizados para desarrollar los diferentes elementos del login.
+Impedimento: Se presento una pequena dificultad al organizar los archivos y verificar que todos estuvieran dentro de la rama feature.
+Plan de accion: Verificar la ubicacion de los archivos y utilizar git status para confirmar los cambios antes de realizar el commit.
