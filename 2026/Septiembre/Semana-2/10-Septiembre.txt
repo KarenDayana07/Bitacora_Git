@@ -1,0 +1,56 @@
+
+id: 1
+Fecha: 10/09/2026
+hora: 12:45
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo la socializacion de la actividad de transferencia "Operacion Rescate Multiversal" de Git.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Continuar con las actividades practicas de Git.
+
+id: 2
+Fecha: 10/09/2026
+hora: 13:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo la actividad de transferencia "Operacion Rescate Multiversal" de Git, donde se exploraron ramas, se encontro a Cody en una rama profunda, se realizaron fusiones y se eliminaron ramas alternativas.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Continuar practicando ramas, fusiones y eliminacion de ramas.
+
+id: 3
+Fecha: 10/09/2026
+hora: 15:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo el primer juego de Kahoot en grupo para repasar los conocimientos adquiridos sobre Git y sus comandos.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Reforzar los conocimientos sobre Git y sus comandos.
+
+id: 4
+Fecha: 10/09/2026
+hora: 16:15
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo el segundo juego de Kahoot de manera individual para reforzar los conocimientos sobre Git y sus comandos.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Continuar practicando los comandos de Git.
+
+id: 5
+Fecha: 10/09/2026
+hora: 16:40
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo la socializacion de la guia de aprendizaje sobre Git Flow, explicando sus conceptos y flujo de trabajo.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Aplicar Git Flow en las actividades practicas.
+
+id: 6
+Fecha: 10/09/2026
+hora: 16:50
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo el juego "La Mudanza del Caos" para reflexionar sobre la importancia de nombrar correctamente commits y archivos.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Reforzar las buenas practicas para nombrar commits y archivos.
+
+id: 7
+Fecha: 10/09/2026
+hora: 17:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Socializacion de la 3.2.Actividades de contextualizacion.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Continuar con la siguiente actividad de la guia.
