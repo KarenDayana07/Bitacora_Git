@@ -70,3 +70,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Tambien se reviso especificamente el historial de la rama feature para identificar el primer commit y obtener su identificador, ya que este seria utilizado posteriormente para recuperar los archivos.
 Impedimento: Se presento dificultad para identificar cual era exactamente el primer commit de la rama feature.
 Plan de accion: Revisar cuidadosamente el historial de la rama y verificar el identificador del commit antes de utilizarlo.
+
+id: 10
+Fecha: 17/09/2026
+hora: 16:45
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo el traslado del contenido del primer commit de la rama feature hacia la rama main. Primero se cambio a la rama main y se identifico el commit que contenia los archivos que se necesitaban recuperar.
+Impedimento: Fue necesario verificar cuidadosamente la rama activa antes de realizar el traslado para evitar modificar una rama diferente.
+Plan de accion: Utilizar git branch y git status para confirmar la rama actual antes de ejecutar los comandos.
