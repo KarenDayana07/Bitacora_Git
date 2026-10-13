@@ -54,3 +54,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Socializacion de la transferencia de la guia de aprendizaje, explicando las actividades.
 Impedimento: Sin impedimentos operativos
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 8
+Fecha: 20/08/2026
+hora: 17:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizacion de una actividad practica en la terminal, orientada al manejo del equipo mediante comandos y unicamente utilizando el teclado, sin hacer uso del mouse.
+Impedimento: Al inicio se presento dificultad para realizar algunas acciones unicamente con el teclado, pero se logro completar la actividad siguiendo las instrucciones dadas.
+Plan de accion: Continuar practicando el uso de la terminal
