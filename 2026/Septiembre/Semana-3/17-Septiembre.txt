@@ -22,3 +22,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Primero se trabajo en la rama principal main, donde se crearon los archivos iniciales del proyecto y se realizo el primer commit para guardar los cambios en el historial.
 Impedimento: No se presentaron inconvenientes durante la creacion de la rama y los archivos.
 Plan de accion: Continuar verificando los cambios con git status y git log.
+
+id: 4
+Fecha: 17/09/2026
+hora: 15:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Revision del historial de Git e identificacion del primer commit realizado en la rama feature. Se compararon los commits de main, develop y feature para encontrar el commit que se debia trasladar.
+Impedimento: Se presento dificultad para identificar el primer commit de feature.
+Plan de accion: Revisar el historial con git log para identificar el commit correcto.
