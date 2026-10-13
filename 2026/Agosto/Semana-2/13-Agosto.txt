@@ -1,0 +1,48 @@
+
+id: 1
+Fecha: 13/08/2026
+hora: 13:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Analizamos la guia de aprendizaje de Terminal para conocer las actividades y temas que se van a desarrollar.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 2
+Fecha: 13/08/2026
+hora: 14:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos una exposicion sobre personas que realizan sin actividades dependiendo de la vista.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 3
+Fecha: 13/08/2026
+hora: 14:45
+autor: Karen Dayana Villamizar Reyes
+Actividad: Respondemos e hicimos un mapa mental de una reflexion sobre como estas habilidades permiten realizar actividades de manera mas precisa y segura.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 4
+Fecha: 13/08/2026
+hora: 16:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos el primer punto de contextualizacion, que consistia en completar una tabla con la informacion solicitada en la guia.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 5
+Fecha: 13/08/2026
+hora: 17:40
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos una socializacion en grupo de las preguntas del primer punto de contextualizacion.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 6
+Fecha: 13/08/2026
+hora: 18:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos las actividades de apropiacion utilizando la terminal.
+Impedimento: Presente problemas al escribir algunos comandos, ya que no funcionaban correctamente.
+Plan de accion: Revisar los comandos y seguir practicando su uso en la terminal.
