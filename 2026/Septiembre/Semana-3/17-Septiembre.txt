@@ -54,3 +54,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Posteriormente, los archivos fueron agregados al repositorio y se realizaron los commits correspondientes para guardar los cambios y tener un registro de las modificaciones realizadas.
 Impedimento: Fue necesario verificar que todos los archivos estuvieran agregados antes de realizar el commit.
 Plan de accion: Revisar siempre git status y utilizar git add antes de realizar cada commit.
+
+id: 8
+Fecha: 17/09/2026
+hora: 16:15
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo una revision del historial del repositorio para identificar los diferentes commits realizados durante el ejercicio. Se utilizaron comandos como git log --oneline --all --graph --decorate para visualizar todo de manera mas organizada.
+Impedimento: Al principio fue un poco dificil interpretar la informacion mostrada por el historial y diferenciar los commits de cada rama.
+Plan de accion: Continuar utilizando git log y sus diferentes opciones para familiarizarse con la visualizacion del historial.
