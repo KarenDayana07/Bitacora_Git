@@ -30,3 +30,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Revision del historial de Git e identificacion del primer commit realizado en la rama feature. Se compararon los commits de main, develop y feature para encontrar el commit que se debia trasladar.
 Impedimento: Se presento dificultad para identificar el primer commit de feature.
 Plan de accion: Revisar el historial con git log para identificar el commit correcto.
+
+id: 5
+Fecha: 17/09/2026
+hora: 15:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se creo la rama feature a partir de la rama develop para realizar una nueva funcionalidad relacionada con el login.
+Impedimento: Se presento dificultad para comprender el funcionamiento de git restore --source.
+Plan de accion: Recuperar los archivos con git restore, agregarlos y crear un nuevo commit en main.
