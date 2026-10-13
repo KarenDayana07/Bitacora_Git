@@ -30,3 +30,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Asistimos en audiovisuales a una charla sobre el dengue, realizada por la Alcaldia de Giron, donde aprendimos sobre su prevencion y cuidado
 Impedimento: Sin impedimentos operativos
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 5
+Fecha: 20/08/2026
+hora: 16:40
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos un juego de Kahoot sobre la terminal para repasar los comandos y conocimientos aprendidos durante las actividades.
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
