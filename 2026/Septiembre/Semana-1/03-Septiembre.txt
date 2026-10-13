@@ -6,3 +6,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Realizamos una exposicion grupal sobre la terminal, donde presentamos sus conceptos basicos, funcionalidades principales y la importancia del uso de comandos para la gestion de archivos y procesos en un sistema operativo.
 Impedimento: No se presentaron inconvenientes durante el desarrollo de la actividad.
 Plan de accion: Iniciar con el desarrollo de la guia de aprendizaje.
+
+id: 2
+Fecha: 03/09/2026
+hora: 13:10
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos la socializacion de la guia de aprendizaje sobre Git, donde se revisaron conceptos, funcionalidades y el uso de esta herramienta para el control de versiones.
+Impedimento: No se presentaron inconvenientes durante el desarrollo de la actividad.
+Plan de accion: Continuar con el desarrollo de la guia.
