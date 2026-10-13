@@ -30,3 +30,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo la instalacion y configuracion inicial de Git en el equipo personal, siguiendo las indicaciones de la guia de aprendizaje para preparar el entorno de control de versiones.
 Impedimento: No se presentaron inconvenientes durante el desarrollo de la actividad.
 Plan de accion: Continuar practicando el uso de Git.
+
+id: 5
+Fecha: 03/09/2026
+hora: 14:20
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizaron practicas en la terminal utilizando comandos basicos de Git y se realizo la configuracion del nombre de usuario (user.name) y correo electronico (user.email) para identificar los cambios realizados en los repositorios.
+Impedimento: Se presentaron algunas dudas al momento de ejecutar ciertos comandos y comprender el funcionamiento del control de versiones.
+Plan de accion: Continuar practicando el uso de Git.
