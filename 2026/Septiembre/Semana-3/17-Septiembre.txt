@@ -62,3 +62,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo una revision del historial del repositorio para identificar los diferentes commits realizados durante el ejercicio. Se utilizaron comandos como git log --oneline --all --graph --decorate para visualizar todo de manera mas organizada.
 Impedimento: Al principio fue un poco dificil interpretar la informacion mostrada por el historial y diferenciar los commits de cada rama.
 Plan de accion: Continuar utilizando git log y sus diferentes opciones para familiarizarse con la visualizacion del historial.
+
+id: 9
+Fecha: 17/09/2026
+hora: 16:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Tambien se reviso especificamente el historial de la rama feature para identificar el primer commit y obtener su identificador, ya que este seria utilizado posteriormente para recuperar los archivos.
+Impedimento: Se presento dificultad para identificar cual era exactamente el primer commit de la rama feature.
+Plan de accion: Revisar cuidadosamente el historial de la rama y verificar el identificador del commit antes de utilizarlo.
