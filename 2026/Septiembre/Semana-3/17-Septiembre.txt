@@ -6,3 +6,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Socializacion de un proyecto realizado por un companero que se encuentra en etapa productiva, relacionado con la Defensa Civil.
 Impedimento: No se presentaron inconvenientes durante la socializacion.
 Plan de accion: Tomar como referencia los conocimientos adquiridos durante la socializacion para fortalecer el desarrollo y la presentacion de futuros proyectos.
+
+id: 2
+Fecha: 17/09/2026
+hora: 14:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo la creacion y configuracion inicial del repositorio utilizando Git.
+Impedimento: Algunos archivos no fueron agregados antes de realizar el commit.
+Plan de accion: Revisar con git status, utilizar git add y realizar nuevamente el commit.
