@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 24/09/2026
+hora: 13:00 - 15:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo la socializacion de una actividad desarrollada en la clase anterior y se recordaron los principales comandos de Git.
+Impedimento: No se presentaron inconvenientes.
+Plan de accion: Continuar practicando los comandos de Git.
