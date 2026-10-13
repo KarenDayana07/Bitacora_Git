@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 06/08/2026
+hora: 12:50
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realice las actividades de reflexion inicial. Analice el caso del Challenger y comprendi la importancia de dejar registradas las decisiones y los hechos para evitar errores y facilitar la toma de decisiones.
+Impedimento: No tuve inconvenientes durante el desarrollo de la actividad.
+Plan de accion: Continuar con las actividades de contextualizacion para seguir fortaleciendo el tema de los registros y la documentacion.
