@@ -6,3 +6,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo la socializacion de una actividad desarrollada en la clase anterior y se recordaron los principales comandos de Git.
 Impedimento: No se presentaron inconvenientes.
 Plan de accion: Continuar practicando los comandos de Git.
+
+id: 2
+Fecha: 24/09/2026
+hora: 15:55 - 18:20
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo la socializacion de la actividad de transferencia de la guia de aprendizaje, repasando los temas y comandos de Git.
+Impedimento: No se presentaron inconvenientes.
+Plan de accion: Continuar con la actividad practica de transferencia.
