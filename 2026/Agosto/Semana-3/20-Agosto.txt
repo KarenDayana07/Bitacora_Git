@@ -38,3 +38,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Realizamos un juego de Kahoot sobre la terminal para repasar los comandos y conocimientos aprendidos durante las actividades.
 Impedimento: Sin impedimentos operativos
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 6
+Fecha: 20/08/2026
+hora: 16:50
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos un segundo juego de Kahoot sobre los comandos de la terminal para reforzar los conocimientos aprendidos
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
