@@ -1,0 +1,8 @@
+
+id: 12
+Fecha: 23/09/2026
+hora: 17:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo entre todos el ejercicio desarrollado en clase, aplicando los conocimientos adquiridos sobre Git.
+Impedimento: Al finalizar el ejercicio fue necesario revisar nuevamente el historial para comprobar que los cambios y commits estuvieran registrados correctamente.
+Plan de accion: Continuar practicando los comandos aprendidos y revisar el historial despues de realizar cambios importantes.
