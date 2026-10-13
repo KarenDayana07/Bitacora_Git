@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 17/09/2026
+hora: 12:45
+autor: Karen Dayana Villamizar Reyes
+Actividad: Socializacion de un proyecto realizado por un companero que se encuentra en etapa productiva, relacionado con la Defensa Civil.
+Impedimento: No se presentaron inconvenientes durante la socializacion.
+Plan de accion: Tomar como referencia los conocimientos adquiridos durante la socializacion para fortalecer el desarrollo y la presentacion de futuros proyectos.
