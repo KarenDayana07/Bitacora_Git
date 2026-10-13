@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 13/08/2026
+hora: 13:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Analizamos la guia de aprendizaje de Terminal para conocer las actividades y temas que se van a desarrollar.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
