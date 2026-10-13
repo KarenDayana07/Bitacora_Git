@@ -30,3 +30,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo el segundo juego de Kahoot de manera individual para reforzar los conocimientos sobre Git y sus comandos.
 Impedimento: Sin impedimentos operativos.
 Plan de accion: Continuar practicando los comandos de Git.
+
+id: 5
+Fecha: 10/09/2026
+hora: 16:40
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo la socializacion de la guia de aprendizaje sobre Git Flow, explicando sus conceptos y flujo de trabajo.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Aplicar Git Flow en las actividades practicas.
