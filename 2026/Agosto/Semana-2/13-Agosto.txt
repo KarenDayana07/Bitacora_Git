@@ -30,3 +30,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Realizamos el primer punto de contextualizacion, que consistia en completar una tabla con la informacion solicitada en la guia.
 Impedimento: La actividad se realizo sin inconvenientes.
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 5
+Fecha: 13/08/2026
+hora: 17:40
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos una socializacion en grupo de las preguntas del primer punto de contextualizacion.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
