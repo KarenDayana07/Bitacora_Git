@@ -22,3 +22,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Realizamos un segundo laboratorio en la terminal, siguiendo el material de apoyo de la guia de aprendizaje y documentando todo el proceso realizado.
 Impedimento: Sin impedimentos operativos
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 4
+Fecha: 20/08/2026
+hora: 14:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Asistimos en audiovisuales a una charla sobre el dengue, realizada por la Alcaldia de Giron, donde aprendimos sobre su prevencion y cuidado
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
