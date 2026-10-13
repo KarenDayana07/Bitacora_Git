@@ -1,0 +1,64 @@
+
+id: 1
+Fecha: 20/08/2026
+hora: 13:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos una socializacion de las actividades de apropiacion de la guia de aprendizaje.
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 2
+Fecha: 20/08/2026
+hora: 13:15
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos nuevamente las actividades de apropiacion utilizando la terminal, tomando evidencias de cada ejercicio y elaborando un informe con todo lo realizado.
+Impedimento: Presente algunas dificultades al ejecutar ciertos comandos.
+Plan de accion: Continuar practicando los comandos y reforzar lo aprendido.
+
+id: 3
+Fecha: 20/08/2026
+hora: 14:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos un segundo laboratorio en la terminal, siguiendo el material de apoyo de la guia de aprendizaje y documentando todo el proceso realizado.
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 4
+Fecha: 20/08/2026
+hora: 14:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Asistimos en audiovisuales a una charla sobre el dengue, realizada por la Alcaldia de Giron, donde aprendimos sobre su prevencion y cuidado
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 5
+Fecha: 20/08/2026
+hora: 16:40
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos un juego de Kahoot sobre la terminal para repasar los comandos y conocimientos aprendidos durante las actividades.
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 6
+Fecha: 20/08/2026
+hora: 16:50
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos un segundo juego de Kahoot sobre los comandos de la terminal para reforzar los conocimientos aprendidos
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 7
+Fecha: 20/08/2026
+hora: 16:45
+autor: Karen Dayana Villamizar Reyes
+Actividad: Socializacion de la transferencia de la guia de aprendizaje, explicando las actividades.
+Impedimento: Sin impedimentos operativos
+Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 8
+Fecha: 20/08/2026
+hora: 17:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizacion de una actividad practica en la terminal, orientada al manejo del equipo mediante comandos y unicamente utilizando el teclado, sin hacer uso del mouse.
+Impedimento: Al inicio se presento dificultad para realizar algunas acciones unicamente con el teclado, pero se logro completar la actividad siguiendo las instrucciones dadas.
+Plan de accion: Continuar practicando el uso de la terminal
