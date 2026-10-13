@@ -1,0 +1,8 @@
+
+id: 8
+Fecha: 04/09/2026
+hora: 17:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo el reto "Colision en el Multiverso" de la guia de aprendizaje de Git, donde se crearon ramas, se realizaron modificaciones en archivos, se ejecuto una fusion (merge) y se solucionaron conflictos entre versiones.
+Impedimento: Se presentaron algunas dificultades al momento de resolver el conflicto de fusion entre las ramas.
+Plan de accion: Continuar practicando el manejo de ramas, fusiones y comandos de Git.
