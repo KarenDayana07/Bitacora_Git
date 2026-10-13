@@ -14,3 +14,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Realizamos la socializacion de la guia de aprendizaje sobre Git, donde se revisaron conceptos, funcionalidades y el uso de esta herramienta para el control de versiones.
 Impedimento: No se presentaron inconvenientes durante el desarrollo de la actividad.
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 3
+Fecha: 03/09/2026
+hora: 13:20
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos la visualizacion de un fragmento de la serie Loki para comprender conceptos relacionados con Git, como el control de versiones, los cambios realizados y el seguimiento de diferentes estados de un proyecto.
+Impedimento: No se presentaron inconvenientes durante el desarrollo de la actividad.
+Plan de accion: Continuar practicando el uso de Git.
