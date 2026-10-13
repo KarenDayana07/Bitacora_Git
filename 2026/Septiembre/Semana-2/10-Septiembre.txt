@@ -46,3 +46,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo el juego "La Mudanza del Caos" para reflexionar sobre la importancia de nombrar correctamente commits y archivos.
 Impedimento: Sin impedimentos operativos.
 Plan de accion: Reforzar las buenas practicas para nombrar commits y archivos.
+
+id: 7
+Fecha: 10/09/2026
+hora: 17:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Socializacion de la 3.2.Actividades de contextualizacion.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Continuar con la siguiente actividad de la guia.
