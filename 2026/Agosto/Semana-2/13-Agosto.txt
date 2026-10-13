@@ -22,3 +22,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Respondemos e hicimos un mapa mental de una reflexion sobre como estas habilidades permiten realizar actividades de manera mas precisa y segura.
 Impedimento: La actividad se realizo sin inconvenientes.
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 4
+Fecha: 13/08/2026
+hora: 16:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos el primer punto de contextualizacion, que consistia en completar una tabla con la informacion solicitada en la guia.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
