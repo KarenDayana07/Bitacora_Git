@@ -14,3 +14,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Desarrolle las actividades de contextualizacion. Analice los escenarios de la guia para identificar los riesgos, la informacion que debia registrarse y la importancia de llevar un buen control de las actividades.
 Impedimento: Algunos escenarios requirieron una segunda lectura para comprender mejor la situacion.
 Plan de accion: Aplicar lo aprendido en el desarrollo de las siguientes actividades y mejorar la forma de documentar la informacion.
+
+id: 3
+Fecha: 06/08/2026
+hora: 15:30
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realice las actividades de apropiacion del conocimiento. Corregi y complete los registros de la bitacora incluyendo la actividad realizada, los posibles inconvenientes y el plan de accion correspondiente.
+Impedimento: No se presentaron dificultades durante la realizacion de la actividad.
+Plan de accion: Seguir utilizando la bitacora para llevar un registro claro y ordenado de las actividades realizadas.
