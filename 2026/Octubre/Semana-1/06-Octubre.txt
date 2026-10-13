@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 06/10/2026
+hora: 12:45
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se recibio un espacio de tiempo por parte del instructor para realizar y subir la actividad de Git correspondiente.
+Impedimento: No se presentaron inconvenientes durante el desarrollo de la actividad.
+Plan de accion: Aprovechar el tiempo asignado para finalizar las actividades y verificar que los archivos queden correctamente subidos antes de terminar la sesion.
