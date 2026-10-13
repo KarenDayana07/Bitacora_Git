@@ -46,3 +46,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: En esta rama se crearon los archivos login.txt, login.js y login.css, los cuales fueron utilizados para desarrollar los diferentes elementos del login.
 Impedimento: Se presento una pequena dificultad al organizar los archivos y verificar que todos estuvieran dentro de la rama feature.
 Plan de accion: Verificar la ubicacion de los archivos y utilizar git status para confirmar los cambios antes de realizar el commit.
+
+id: 7
+Fecha: 17/09/2026
+hora: 16:10
+autor: Karen Dayana Villamizar Reyes
+Actividad: Posteriormente, los archivos fueron agregados al repositorio y se realizaron los commits correspondientes para guardar los cambios y tener un registro de las modificaciones realizadas.
+Impedimento: Fue necesario verificar que todos los archivos estuvieran agregados antes de realizar el commit.
+Plan de accion: Revisar siempre git status y utilizar git add antes de realizar cada commit.
