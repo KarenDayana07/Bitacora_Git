@@ -46,3 +46,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo la actividad "Tu Primer Viaje en el Tiempo" de la guia de Git, aplicando comandos para crear un repositorio, agregar archivos y realizar el primer commit.
 Impedimento: No se presentaron inconvenientes durante el desarrollo de la actividad.
 Plan de accion: Continuar practicando el uso de Git.
+
+id: 7
+Fecha: 03/09/2026
+hora: 16:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo la socializacion de la actividad de apropiacion de la guia de aprendizaje sobre ramas en Git, explicando la creacion, navegacion, fusion y eliminacion de ramas mediante comandos.
+Impedimento: No se presentaron inconvenientes durante el desarrollo de la actividad.
+Plan de accion: Continuar practicando el uso de Git.
