@@ -38,3 +38,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo la socializacion de la guia de aprendizaje sobre Git Flow, explicando sus conceptos y flujo de trabajo.
 Impedimento: Sin impedimentos operativos.
 Plan de accion: Aplicar Git Flow en las actividades practicas.
+
+id: 6
+Fecha: 10/09/2026
+hora: 16:50
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se realizo el juego "La Mudanza del Caos" para reflexionar sobre la importancia de nombrar correctamente commits y archivos.
+Impedimento: Sin impedimentos operativos.
+Plan de accion: Reforzar las buenas practicas para nombrar commits y archivos.
