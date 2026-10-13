@@ -38,3 +38,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Realizamos una socializacion en grupo de las preguntas del primer punto de contextualizacion.
 Impedimento: La actividad se realizo sin inconvenientes.
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 6
+Fecha: 13/08/2026
+hora: 18:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Realizamos las actividades de apropiacion utilizando la terminal.
+Impedimento: Presente problemas al escribir algunos comandos, ya que no funcionaban correctamente.
+Plan de accion: Revisar los comandos y seguir practicando su uso en la terminal.
