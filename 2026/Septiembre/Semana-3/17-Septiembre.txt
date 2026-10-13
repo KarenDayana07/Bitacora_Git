@@ -14,3 +14,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Se realizo la creacion y configuracion inicial del repositorio utilizando Git.
 Impedimento: Algunos archivos no fueron agregados antes de realizar el commit.
 Plan de accion: Revisar con git status, utilizar git add y realizar nuevamente el commit.
+
+id: 3
+Fecha: 17/09/2026
+hora: 14:40
+autor: Karen Dayana Villamizar Reyes
+Actividad: Primero se trabajo en la rama principal main, donde se crearon los archivos iniciales del proyecto y se realizo el primer commit para guardar los cambios en el historial.
+Impedimento: No se presentaron inconvenientes durante la creacion de la rama y los archivos.
+Plan de accion: Continuar verificando los cambios con git status y git log.
