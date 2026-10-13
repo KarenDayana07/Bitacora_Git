@@ -14,3 +14,11 @@ autor: Karen Dayana Villamizar Reyes
 Actividad: Realizamos una exposicion sobre personas que realizan sin actividades dependiendo de la vista.
 Impedimento: La actividad se realizo sin inconvenientes.
 Plan de accion: Continuar con el desarrollo de la guia.
+
+id: 3
+Fecha: 13/08/2026
+hora: 14:45
+autor: Karen Dayana Villamizar Reyes
+Actividad: Respondemos e hicimos un mapa mental de una reflexion sobre como estas habilidades permiten realizar actividades de manera mas precisa y segura.
+Impedimento: La actividad se realizo sin inconvenientes.
+Plan de accion: Continuar con el desarrollo de la guia.
