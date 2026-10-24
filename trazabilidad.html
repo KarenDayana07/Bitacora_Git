@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tabla de trazabilidad de actividades de la bitácora ADSO">
+  <title>Trazabilidad | Bitácora ADSO</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido principal</a>
+  <header>
+    <h1>Plantilla control de trabajo diario ADSO</h1>
+    <p>Versión: 01</p>
+  </header>
+  <nav aria-label="Navegación principal de la bitácora">
+    <ul>
+      <li><a href="index.html">Información</a></li>
+      <li><a href="reglas.html">Reglas</a></li>
+      <li><a href="trazabilidad.html" aria-current="page">Trazabilidad</a></li>
+    </ul>
+  </nav>
+  <main id="contenido">
+    <section aria-labelledby="t-traza">
+      <h2 id="t-traza">Tabla de trazabilidad</h2>
+
+      <div class="filtro">
+        <label for="filtro">Filtrar actividades por texto:</label>
+        <input type="search" id="filtro" name="filtro" aria-controls="tabla-traza" placeholder="Ej. repositorio">
+      </div>
+      <p id="estado-filtro" role="status" aria-live="polite"></p>
+
+      <div class="scroll">
+        <table id="tabla-traza">
+          <caption>Registro cronológico de actividades del 08/10/2026</caption>
+          <thead>
+            <tr>
+              <th scope="col">ID</th>
+              <th scope="col">Timestamp (YYYY-MM-DD HH:MM)</th>
+              <th scope="col">Autoría (Responsable)</th>
+              <th scope="col">Objeto Técnico (Actividad y Alcance)</th>
+              <th scope="col">Evidencia de Ejecución (Entregable / Enlace)</th>
+              <th scope="col">Impedimentos / Blockers</th>
+              <th scope="col">Plan de Acción (Mitigación / Próxima Tarea)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td><time datetime="2026-10-08T12:45/2026-10-08T14:15">08/10/2026, 12:45 pm - 2:15 pm</time></td>
+              <td>Silvia Fernanda Osorio Vargas</td>
+              <td>Inicio de la actividad de GitHub: se retomó la guía y, mediante una ruleta, se conformaron los grupos definitivos para desarrollar el proyecto colaborativo durante el resto del trimestre.</td>
+              <td>Sin evidencia registrada.</td>
+              <td>Sin impedimentos operativos.</td>
+              <td>Coordinar los acercamientos iniciales para colaborar en equipo.</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td><time datetime="2026-10-08T14:15/2026-10-08T15:45">08/10/2026, 2:15 pm - 3:45 pm</time></td>
+              <td>Silvia Fernanda Osorio Vargas</td>
+              <td>Creación del repositorio en GitHub: se elaboró el repositorio y se le asignó su nombre según lo indicado en la guía, configurándolo como público con el fin de favorecer la colaboración entre los miembros del equipo.</td>
+              <td>Sin evidencia registrada.</td>
+              <td>Sin impedimentos operativos.</td>
+              <td>Compartir el repositorio con los miembros del equipo y añadirlos en calidad de colaboradores.</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td><time datetime="2026-10-08T15:45/2026-10-08T17:00">08/10/2026, 3:45 pm - 5:00 pm</time></td>
+              <td>Silvia Fernanda Osorio Vargas</td>
+              <td>Configuración de colaboradores y clonación: se dio acceso al repositorio, se agregaron colaboradores y se clonó en los equipos locales, aclarando dudas sobre permisos y autenticación.</td>
+              <td>Sin evidencia registrada.</td>
+              <td>Sin impedimentos operativos.</td>
+              <td>Practicar la creación de repositorios, agregar colaboradores y clonarlos para fortalecer el trabajo colaborativo, además de hacer pruebas de push y pull con el grupo.</td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td><time datetime="2026-10-08T17:00/2026-10-08T18:10">08/10/2026, 5:00 pm - 6:10 pm</time></td>
+              <td>Silvia Fernanda Osorio Vargas</td>
+              <td>Práctica colaborativa en GitHub: se modificaron archivos, se hicieron commits y se sincronizó con push y pull para comprobar el flujo de trabajo colaborativo entre los integrantes.</td>
+              <td>Sin evidencia registrada.</td>
+              <td>Sin impedimentos operativos.</td>
+              <td>Alistarse para la siguiente actividad de la guía de GitHub.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+  <script src="filtro.js"></script>
+  <footer>
+    <p>Bitácora de seguimiento &middot; Análisis y Desarrollo de Software &middot; Ficha 3381732</p>
+  </footer>
+</body>
+</html>
