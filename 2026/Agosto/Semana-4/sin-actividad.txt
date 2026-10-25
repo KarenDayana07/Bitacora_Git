@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: No aplica
+hora: No aplica
+autor: Karen Dayana Villamizar Reyes
+Actividad: No hay bitacora registrada para esta semana (la carpeta original existe pero fue entregada sin archivos).
+Impedimento: No aplica.
+Plan de accion: No aplica.

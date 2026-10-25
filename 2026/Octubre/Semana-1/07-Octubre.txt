@@ -1,0 +1,8 @@
+
+id: 2
+Fecha: 07/10/2026
+hora: 13:00
+autor: Karen Dayana Villamizar Reyes
+Actividad: Se desarrollo la actividad practica de Git utilizando el computador del instructor, proyectando el procedimiento en el televisor para que todos los companeros pudieran observar el desarrollo de la actividad.
+Impedimento: Se presento un poco de dificultad al realizar los comandos frente al grupo, ya que era necesario seguir correctamente cada paso y cumplir con los criterios de evaluacion.
+Plan de accion: Continuar practicando los comandos de Git para mejorar la seguridad al realizar actividades practicas y tener en cuenta los criterios de evaluacion antes y durante su desarrollo.
