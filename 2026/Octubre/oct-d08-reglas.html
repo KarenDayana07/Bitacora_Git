@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Día 08 - Reglas (Octubre)</title>
+</head>
+<body>
+    <header>
+        <h1>Día 08 de Octubre - Reglas de Llenado</h1>
+        <nav aria-label="Volver al mes">
+            <a href="octubre.html"><span aria-hidden="true">⬅️</span> Volver a Octubre</a>
+        </nav>
+    </header>
+    <hr>
+    <main>
+        <nav aria-label="Secciones del día 08 de octubre">
+            <ul>
+                <li><a href="oct-d08-informacion.html"><span aria-hidden="true">📁</span> Información</a></li>
+                <li><a href="oct-d08-reglas.html" aria-current="page"><span aria-hidden="true">📁</span> Reglas</a></li>
+                <li><a href="oct-d08-trazabilidad.html"><span aria-hidden="true">📁</span> Trazabilidad</a></li>
+            </ul>
+        </nav>
+        <section>
+            <h2>Reglas</h2>
+            <ol>
+                <li>Responsabilidad Única (SRP): Cada fila documenta un solo evento, tarea o impedimento indivisible. Si realizó tres actividades en el día, registre tres filas independientes.</li>
+                <li>Cero Adjetivos Subjetivos: Prohibido escribir "estuvo chévere", "fue difícil", "avanzamos bien". Redacte únicamente los hechos técnicos verificables.</li>
+                <li>Inmutabilidad: Si un registro histórico contiene un error o cambio, no lo borre ni sobrescriba. Cree un nuevo registro con fecha actual indicando: "Corrección/Ajuste al registro ID [X]".</li>
+                <li>Impedimentos: Si no presentó dificultades, escriba expresamente: "Sin impedimentos operativos".</li>
+            </ol>
+        </section>
+        <section>
+            <h2>Guía de llenado por columna</h2>
+            <table border="1">
+                <caption>Descripción y formato esperado por columna</caption>
+                <thead>
+                    <tr><th scope="col">Columna</th><th scope="col">Descripción y formato esperado</th></tr>
+                </thead>
+                <tbody>
+                    <tr><th scope="row">ID</th><td>Número consecutivo único para cada actividad o fila.</td></tr>
+                    <tr><th scope="row">Timestamp (YYYY-MM-DD HH:MM)</th><td>Fecha y hora exacta en la que se registra o ejecuta la actividad.</td></tr>
+                    <tr><th scope="row">Autoría (Responsable)</th><td>Nombre o iniciales del aprendiz responsable de ejecutar la actividad.</td></tr>
+                    <tr><th scope="row">Objeto Técnico (Actividad y Alcance)</th><td>Descripción técnica objetiva, verificable y concreta de lo ejecutado y su alcance real.</td></tr>
+                    <tr><th scope="row">Evidencia de Ejecución (Entregable / Enlace)</th><td>URL del commit, enlace al Pull Request, captura de pantalla o documento entregable.</td></tr>
+                    <tr><th scope="row">Impedimentos / Blockers</th><td>Descripción técnica del error o impedimento. Si no hubo problemas: &quot;Sin impedimentos operativos&quot;.</td></tr>
+                    <tr><th scope="row">Plan de Acción (Mitigación / Próxima Tarea)</th><td>Acción correctiva tomada, próxima tarea programada o paso para desbloquear la actividad.</td></tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>Bitácora de Seguimiento - ADSO | Ficha 3381732</p>
+    </footer>
+</body>
+</html>
